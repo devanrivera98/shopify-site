@@ -1,0 +1,3 @@
+[submodule "shopify-course/Elizabeth"]
+	path = shopify-course/Elizabeth
+	url = https://github.com/polidario/Elizabeth_Clean.git
